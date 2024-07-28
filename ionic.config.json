@@ -1,0 +1,8 @@
+{
+  "name": "Socio",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "956d33dc"
+}
